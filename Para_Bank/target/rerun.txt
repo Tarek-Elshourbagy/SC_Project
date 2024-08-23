@@ -1,0 +1,5 @@
+file:src/main/resources/features/f02_Login.feature:3:10:17
+file:src/main/resources/features/f04_Search.feature:3:8
+file:src/main/resources/features/f05_hoverCategories.feature:3
+file:src/main/resources/features/f01_Registration.feature:3
+file:src/main/resources/features/f03_Currencies.feature:3
